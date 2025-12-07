@@ -1,7 +1,7 @@
 id = "svelte-mcp"
 name = "Svelte MCP Server"
 description = "Automatically configure the official Svelte MCP Server"
-version = "0.1.0"
+version = "0.1.1"
 schema_version = 1
 author = ["Willow [GHOST] (ghostdev.xyz)"]
 repository = "https://github.com/ghostdevv/zed-svelte-mcp"

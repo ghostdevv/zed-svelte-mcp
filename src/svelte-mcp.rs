@@ -37,7 +37,7 @@ impl zed::Extension for SvelteMCPExtension {
                     .map_err(|err| err.to_string())?
                     .join("node_modules")
                     .join(MCP_SERVER_PACKAGE_NAME)
-                    .join("dist/index.js")
+                    .join("dist/index.mjs")
                     .to_string_lossy()
                     .to_string()
             ],
